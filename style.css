@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+    color: dimgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: slategrey, solid, 3px;
+}
+
+h1 {
+    background-color: bisque;
+    color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
